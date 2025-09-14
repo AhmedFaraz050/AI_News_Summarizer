@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+
+# Ignore virtual environment and caches
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Do NOT ignore your Python scripts
+!*.py
