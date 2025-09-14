@@ -1,8 +1,4 @@
-Nice 🚀 ab tumhari repo complete ho rahi hai! Ye rahi tumhare project ke liye ek clean aur updated **README.md** (abhi requirements.txt bhi add ho chuka hai 👌):
 
----
-
-````markdown
 # 📰 AI News Summarizer & Q&A Tool 🚀
 
 This project is a **Streamlit-based AI tool** that:
