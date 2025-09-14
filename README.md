@@ -106,8 +106,3 @@ Pull requests are welcome!
 This project is licensed under the **MIT License** – you are free to use, modify, and distribute this software with attribution.
 ````
 
----
-
-
-
-Kya chaho ke main tumhe ek **badge version** bhi bana dun (jaise Python version, Streamlit badge, License badge) taake README aur professional lage?
